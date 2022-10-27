@@ -30,7 +30,7 @@ require 'header.php';
                 <td><?=$item['email'];?></td>
                 <td>
                    <a href="editar.php?id=<?=$item['id'];?>" class="btn-sm btn-primary">Editar</a>
-                   <a href="deletar.php?id=<?=$item['id'];?>" class="btn-sm btn-danger">Deletar</a>
+                   <a href="deletar.php?id=<?=$item['id'];?>" class="btn-sm btn-danger" onclick="return confirm('Realmente deseja deletar?')">Deletar</a>
                 </td>
             </tr>
             <?php
