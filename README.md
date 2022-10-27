@@ -8,3 +8,7 @@
 
 ## Listing Sql items
 ![READ](https://user-images.githubusercontent.com/66438920/198157293-1fc3c3bb-74eb-4a8c-a5da-ea300b899f57.JPG)
+
+
+https://user-images.githubusercontent.com/66438920/198403154-00264b81-6f22-4430-8e9e-3d3d886c8e03.mp4
+
